@@ -1,0 +1,19 @@
+{
+  "name": "movie-web-app",
+  "version": "1.0.0",
+  "description": "Aplicación de peliculas, hecho con los conocimientos adquiridos en el curso de consumo de API REST práctico en platzi.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhormanSalazar/movie-web-app.git"
+  },
+  "author": "@JhormanSalazar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JhormanSalazar/movie-web-app/issues"
+  },
+  "homepage": "https://github.com/JhormanSalazar/movie-web-app#readme"
+}
